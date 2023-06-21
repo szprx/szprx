@@ -14,7 +14,6 @@ Gmail
 dariusz.glazewski9@gmail.com
 ##### BIO
 - 👀 I’m interested in software development
-- 🏢 I'm currently creating my shop-online app   
-     https://github.com/szprx/shop
-- 🌱 Learning all about Java, Spring Boot and SQL
+- 🏢 I'm currently working as Junior Java Developer
+- 🌱 Learning all about Java, Spring Boot, SQL and microservices architecture.
 - ⚡️ Fun fact: I'm a huge fan of Airsoft.
