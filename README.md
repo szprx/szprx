@@ -14,6 +14,6 @@ Gmail
 dariusz.glazewski9@gmail.com
 ##### BIO
 - 👀 I’m interested in software development
-- 🏢 I'm currently working as Regular Java Developer
+- 🏢 I'm currently working as Software Developer
 - 🌱 Learning all about Java, Spring Boot, SQL and microservices architecture.
 - ⚡️ Fun fact: I'm a huge fan of Airsoft.
